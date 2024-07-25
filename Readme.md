@@ -36,7 +36,7 @@ Recipe Realm is a web application that allows users to discover and collect food
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/recipe-realm.git
+    git clone https://github.com/saurabhsingh0212/RECIPE_REALM.git
     ```
 
 2. **Navigate to the server directory**:
