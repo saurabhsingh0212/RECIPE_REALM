@@ -41,8 +41,10 @@
             </button>
           </div>
         </li>
+        <p v-if="list.recipes.length==0">No recipes in this list</p>
       </ul>
     </div>
+    <p v-if="lists.length==0">No lists available to show!!</p>
   </div>
 </template>
 
