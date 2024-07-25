@@ -72,7 +72,7 @@ Recipe Realm is a web application that allows users to discover and collect food
 
 2. **Start the server**:
     ```sh
-    node start
+    npm start
     ```
 
 3. The server should now be running at `http://localhost:3000`.
